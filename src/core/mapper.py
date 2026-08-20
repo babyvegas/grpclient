@@ -20,4 +20,4 @@ def map():
 
 if __name__ == "__main__":
     logging.basicConfig()
-    map_greeting()
+    map()
